@@ -1,0 +1,26 @@
+{
+  "name": "transitions",
+  "version": "1.0.0",
+  "description": "page with transitions demo",
+  "main": "\u001b[5~\u001b[Dindex.html)",
+  "dependencies": {
+    "barba.js": "^0.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexandercannon/transitions.git"
+  },
+  "keywords": [
+    "transitions"
+  ],
+  "author": "Alexander Cannon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandercannon/transitions/issues"
+  },
+  "homepage": "https://github.com/alexandercannon/transitions#readme"
+}
