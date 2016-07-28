@@ -2,7 +2,7 @@
   "name": "transitions",
   "version": "1.0.0",
   "description": "page with transitions demo",
-  "main": "\u001b[5~\u001b[Dindex.html)",
+  "main": "index.html",
   "dependencies": {
     "barba.js": "^0.0.10"
   },
@@ -18,7 +18,7 @@
     "transitions"
   ],
   "author": "Alexander Cannon",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/alexandercannon/transitions/issues"
   },
