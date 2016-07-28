@@ -66,6 +66,7 @@ document.addEventListener("DOMContentLoaded", function () {
       TweenLite.to(fullImage, 0.3, {
         top: destThumbPosition.top,
         height: destThumb.clientHeight,
+        width: destThumb.clientWidth,
         onComplete: function () {
           _this.done();
         }
